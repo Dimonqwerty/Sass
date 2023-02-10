@@ -1,0 +1,31 @@
+<svg width="154" height="37" viewBox="0 0 154 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="38" height="37" rx="11" fill="url(#paint0_radial_3_146)"/>
+<path d="M24 8H14C11.2386 8 9 10.2386 9 13V23C9 25.7614 11.2386 28 14 28H24C26.7614 28 29 25.7614 29 23V13C29 10.2386 26.7614 8 24 8Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23 17.37C23.1234 18.2022 22.9813 19.0522 22.5938 19.799C22.2063 20.5458 21.5931 21.1514 20.8416 21.5297C20.0901 21.9079 19.2384 22.0396 18.4078 21.9059C17.5771 21.7723 16.8098 21.3801 16.2148 20.7852C15.6199 20.1902 15.2277 19.4229 15.0941 18.5922C14.9604 17.7615 15.0921 16.9099 15.4703 16.1584C15.8486 15.4069 16.4542 14.7937 17.201 14.4062C17.9478 14.0187 18.7978 13.8766 19.63 14C20.4789 14.1259 21.2648 14.5215 21.8717 15.1283C22.4785 15.7351 22.8741 16.5211 23 17.37Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.5 12.5H24.51" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="58" width="38" height="37" rx="11" fill="url(#paint1_radial_3_146)"/>
+<g clip-path="url(#clip0_3_146)">
+<path d="M74 28C69 29.5 69 25.5 67 25M81 31V27.13C81.0375 26.6532 80.9731 26.1738 80.811 25.7238C80.6489 25.2738 80.3929 24.8634 80.06 24.52C83.2 24.17 86.5 22.98 86.5 17.52C86.4997 16.1238 85.9627 14.7812 85 13.77C85.4559 12.5485 85.4236 11.1983 84.91 10C84.91 10 83.73 9.65 81 11.48C78.708 10.8588 76.292 10.8588 74 11.48C71.27 9.65 70.09 10 70.09 10C69.5764 11.1983 69.5441 12.5485 70 13.77C69.0301 14.7887 68.4925 16.1435 68.5 17.55C68.5 22.97 71.8 24.16 74.94 24.55C74.611 24.89 74.3573 25.2954 74.1953 25.7399C74.0334 26.1844 73.9668 26.6581 74 27.13V31" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="116" width="38" height="37" rx="11" fill="url(#paint2_radial_3_146)"/>
+<path d="M139 14C140.591 14 142.117 14.6321 143.243 15.7574C144.368 16.8826 145 18.4087 145 20V27H141V20C141 19.4696 140.789 18.9609 140.414 18.5858C140.039 18.2107 139.53 18 139 18C138.47 18 137.961 18.2107 137.586 18.5858C137.211 18.9609 137 19.4696 137 20V27H133V20C133 18.4087 133.632 16.8826 134.757 15.7574C135.883 14.6321 137.409 14 139 14V14Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M129 15H125V27H129V15Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M127 12C128.105 12 129 11.1046 129 10C129 8.89543 128.105 8 127 8C125.895 8 125 8.89543 125 10C125 11.1046 125.895 12 127 12Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<radialGradient id="paint0_radial_3_146" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(19 18.5) rotate(90) scale(18.5 19)">
+<stop stop-color="#47A6DC"/>
+<stop offset="1" stop-color="#1E1A36"/>
+</radialGradient>
+<radialGradient id="paint1_radial_3_146" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(77 18.5) rotate(90) scale(18.5 19)">
+<stop stop-color="#47A6DC"/>
+<stop offset="1" stop-color="#1E1A36"/>
+</radialGradient>
+<radialGradient id="paint2_radial_3_146" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(135 18.5) rotate(90) scale(18.5 19)">
+<stop stop-color="#47A6DC"/>
+<stop offset="1" stop-color="#1E1A36"/>
+</radialGradient>
+<clipPath id="clip0_3_146">
+<rect width="24" height="24" fill="white" transform="translate(65 9)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,32 @@
+$bg-dark: #1e1c38;
+$light-color: #ccc;
+$font-stack: Arial, sans-serif;
+$bg-gradient: linear-gradient(140.5deg, #28343f 0%, #1f3641 45%, #3c6981 45%, #417fa0 100%);
+
+@mixin grid {
+    display: grid;
+    grid-template-columns: 1.2fr 1.5fr 1.5fr;
+}
+
+@mixin grid2 {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto 80% auto;
+}
+
+@media (max-width:1100px) {
+    @mixin grid {
+        grid-template-columns: 1.2fr 1.5fr;
+    }
+
+    .space {
+        display: none;
+    }
+}
+
+@media (max-width:800px) {
+    @mixin grid {
+        grid-template-columns: 100%;
+        grid-template-rows: 1fr 3fr;
+    }
+}
